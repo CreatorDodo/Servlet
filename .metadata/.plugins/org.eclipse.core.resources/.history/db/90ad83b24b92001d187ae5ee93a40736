@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="TextareaServlet">
+Select a favorite fruit <br> 
+<input type="radio" name="fruit" value="Apple">
+<input type="radio" name="fruit">
+<input type="radio" name="fruit">
+<br><br>
+<input type="submit" value="Upload">
+</form>
+</body>
+</html>
+
